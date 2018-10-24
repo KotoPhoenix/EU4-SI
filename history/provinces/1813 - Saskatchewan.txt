@@ -1,0 +1,42 @@
+# 1813 - Saskatchewan
+
+owner = SHO
+controller = SHO
+add_core = SHO
+
+culture = shoshone
+religion = totemism
+base_tax = 1
+base_production = 1
+base_manpower = 1
+trade_goods = fur
+
+is_city = yes
+capital = "Saskatchewan" 
+hre = no 
+
+discovered_by = north_american
+
+1692.1.1 = { discovered_by = ENG } #Henry Kelsey
+1707.5.12 = { discovered_by = GBR }
+1732.1.1 = { discovered_by = FRA } # Pierre Gaultier de Varennes
+
+1753.1.1 = {
+ 	owner = FRA 
+	controller = FRA
+	add_core = FRA
+	is_city = yes
+	culture = cosmopolitan_french
+	religion = catholic
+	trade_goods = fur 
+} #Fort a la Corne
+1763.2.10 = {
+	discovered_by = GBR
+	owner = GBR
+	controller = GBR
+	add_core = GBR
+	remove_core = FRA
+	culture = english
+	religion = protestant
+} # Treaty of Paris
+ #Northwest company and other traders become more frequent.

@@ -1,0 +1,29 @@
+# No previous file for Wahpekute
+
+owner = ASI
+controller = ASI
+add_core = ASI
+
+culture = nakota
+religion = totemism
+
+base_tax = 4
+base_production = 5
+base_manpower = 2
+trade_goods = fur
+
+is_city = yes
+capital = "Wahpekute" 
+hre = no 
+
+discovered_by = north_american
+
+
+1650.1.1 = {
+ 	owner = SIO
+	controller = SIO
+	add_core = SIO
+	trade_goods = fur
+	is_city = yes 
+} #Position of the natives circal the Beaver Wars
+1738.1.1 = { discovered_by = FRA }# Pierre Gaultier de Varennes, no real settlements until the 1800's

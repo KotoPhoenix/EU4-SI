@@ -1,0 +1,15 @@
+government = monarchy
+add_government_reform = autocracy_reform
+primary_culture = guajiro
+religion = inti
+technology_group = andean
+capital = 741
+
+1444.11.11 = {
+	monarch = {
+		name = "Arawak"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}

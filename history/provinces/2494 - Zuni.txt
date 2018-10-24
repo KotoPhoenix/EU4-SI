@@ -1,0 +1,29 @@
+# No previous file for Zuni
+ 
+owner = PUE
+controller = PUE
+add_core = PUE
+
+culture = pueblo  
+religion = nahuatl
+
+base_tax = 2
+base_production = 2
+base_manpower = 2
+trade_goods = salt
+
+is_city = yes
+capital = "Zuni" 
+hre = no 
+
+discovered_by = mesoamerican
+
+1541.1.1 = { discovered_by = SPA } # Francisco Vásquez de Coronado
+
+1750.1.1 = {
+	owner = PUE
+	controller = PUE
+	add_core = PUE
+	trade_goods = salt
+	is_city = yes
+} #Recycling Pueblo tag for groups further west (Hopi and zuni)

@@ -1,0 +1,37 @@
+# No previous file for Jumao
+
+owner = TOT
+controller = TOT
+add_core = TOT
+
+culture = totonac  
+religion = nahuatl
+
+base_tax = 3
+base_production = 3
+base_manpower = 1
+trade_goods = grain
+
+is_city = yes
+capital = "Jumano" 
+hre = no 
+
+discovered_by = mesoamerican
+
+1541.1.1 = { discovered_by = SPA }
+#1685.2.18 = { discovered_by = FRA } # René-Robert Cavelier
+
+1682.1.1 = {
+	owner = SPA
+	controller = SPA
+	add_core = SPA
+	is_city = yes
+	trade_goods = grain
+	religion = catholic
+	culture = castillian 
+} #Isleta Mission
+1810.9.16 = {
+	owner = MEX
+	add_core = MEX
+	controller = SPA 
+} # Mexican War of Independence

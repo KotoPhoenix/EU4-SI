@@ -1,0 +1,25 @@
+# No previous file for Yuki
+
+owner = CNK
+controller = CNK
+add_core = CNK
+
+culture = chinook  
+religion = nahuatl
+
+base_tax = 2
+base_production = 2
+base_manpower = 2
+trade_goods = grain
+
+is_city = yes
+capital = "Yuki" 
+hre = no 
+
+discovered_by = mesoamerican
+discovered_by = north_american
+
+1542.1.1 = { discovered_by = SPA } # Juan Rodríguez Cabrillo
+1579.6.16 = { discovered_by = ENG } # Sir Francis Drake
+1707.5.12 = { discovered_by = GBR }
+1786.1.1 = { discovered_by = FRA } # Jean Francois la Perouse

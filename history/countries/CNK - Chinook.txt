@@ -1,0 +1,17 @@
+government = monarchy
+add_government_reform = autocracy_reform
+primary_culture = chinook
+religion = nahuatl
+technology_group = mesoamerican
+capital = 2021 #Chinook
+
+
+1444.11.11 = {
+	monarch = {
+		name = "Comcomly"
+		dynasty = "Chinook"
+		adm = 3
+		dip = 1
+		mil = 2
+	}
+}

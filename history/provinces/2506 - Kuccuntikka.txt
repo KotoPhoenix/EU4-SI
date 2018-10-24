@@ -1,0 +1,27 @@
+# No previous file for Kuccuntikka
+
+owner = SHO
+controller = SHO
+add_core = SHO
+
+culture = shoshone
+religion = totemism
+base_tax = 1
+base_production = 1
+base_manpower = 1
+trade_goods = grain
+
+is_city = yes
+capital = "Kuccuntikka" 
+hre = no 
+
+discovered_by = north_american
+
+
+1760.1.1 = {
+	owner = SHO
+	controller = SHO
+	add_core = SHO
+	trade_goods = grain
+	is_city = yes 
+} #Great Plain tribes spread over vast territories

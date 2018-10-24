@@ -1,0 +1,18 @@
+government = tribal
+add_government_reform = tribal_despotism
+primary_culture = blackfoot
+religion = shamanism
+technology_group = north_american
+capital = 979 # Niitsitapi
+unlock_cult = norse_cult
+unlock_cult = south_central_american_cult
+government_rank = 1
+
+1444.11.11 = {
+	monarch = {
+		name = "Blackfoot"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}

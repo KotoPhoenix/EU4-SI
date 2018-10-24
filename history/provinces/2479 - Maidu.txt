@@ -1,0 +1,23 @@
+# No previous file for Maidu
+
+owner = CNK
+controller = CNK
+add_core = CNK
+
+culture = chinook  
+religion = nahuatl
+
+base_tax = 2
+base_production = 4
+base_manpower = 2
+trade_goods = gold
+
+is_city = yes
+capital = "Maidu" 
+hre = no 
+
+discovered_by = mesoamerican
+discovered_by = north_american
+capital = "Maidu"
+
+

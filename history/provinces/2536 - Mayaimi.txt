@@ -1,0 +1,25 @@
+# No previous file for Mayaimi
+
+owner = CRE
+controller = CRE
+add_core = CRE
+
+culture = creek
+religion = totemism
+
+base_tax = 4
+base_production = 8
+base_manpower = 4
+trade_goods = tobacco
+
+is_city = yes
+capital = "Mayaimi" 
+hre = no 
+
+fort_15th = yes
+center_of_trade = 1
+
+discovered_by = north_american
+
+1513.4.2 = { discovered_by = CAS } # Juan Ponce de Leon
+1516.1.23 = { discovered_by = SPA }

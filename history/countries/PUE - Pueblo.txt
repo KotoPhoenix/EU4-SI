@@ -1,0 +1,17 @@
+government = monarchy 
+add_government_reform = autocracy_reform
+primary_culture = pueblo
+religion = nahuatl
+technology_group = mesoamerican
+capital = 2495 # Pueblo
+
+
+1444.11.11 = {
+	monarch = {
+		name = "Pue"
+		dynasty = "Pueblo"
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}

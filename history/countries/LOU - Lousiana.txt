@@ -1,0 +1,10 @@
+government = republic
+add_government_reform = merchants_reform
+technology_group = north_american
+primary_culture = caddo
+religion = totemism
+capital = 893	# Mobile
+
+1720.1.1 = { capital = 921 } # Biloxi
+
+

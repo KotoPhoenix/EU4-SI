@@ -1,0 +1,44 @@
+#1001 - Sault
+
+owner = OTT
+controller = OTT
+add_core = OTT
+
+culture = anishinabe
+religion = norse_pagan_reformed
+
+base_tax = 3
+base_production = 2
+base_manpower = 3
+trade_goods = fur
+
+is_city = yes
+capital = "Sault" 
+hre = no 
+
+discovered_by = north_american
+
+1611.1.1 = {
+	discovered_by = FRA
+	discovered_by = ENG
+} # Étienne Brulé, Henry Hudson
+
+1668.1.1 = {
+	owner = FRA
+	controller = FRA
+	add_core = FRA
+	culture = cosmopolitan_french
+	religion = catholic
+	capital = "Sault Ste. Marie"
+	is_city = yes
+}
+1707.5.12 = { discovered_by = GBR }
+1763.2.10 = {
+	owner = GBR
+	controller = GBR
+	add_core = GBR
+	remove_core = FRA
+	religion = protestant
+	culture = english
+	trade_goods = fur
+} # Treaty of Paris

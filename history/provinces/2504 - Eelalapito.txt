@@ -1,0 +1,28 @@
+# No previous file for Eelalapito
+
+owner = SHO
+controller = SHO
+add_core = SHO
+
+culture = shoshone
+religion = totemism
+base_tax = 1
+base_production = 1
+base_manpower = 1
+trade_goods = grain
+
+is_city = yes
+capital = "Eelalapito" 
+hre = no 
+
+discovered_by = north_american
+
+
+1810.1.1 = {
+	owner = CHY
+	controller = CHY
+	add_core = CHY
+	culture = cheyenne
+	trade_goods = grain
+	is_city = yes 
+} #19th century native expansion

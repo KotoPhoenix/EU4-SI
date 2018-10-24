@@ -1,0 +1,17 @@
+government = monarchy
+add_government_reform = autocracy_reform
+primary_culture = piman
+religion = nahuatl
+technology_group = mesoamerican
+capital = 885 # Pima
+
+
+1444.11.11 = {
+	monarch = {
+		name = "Chapitone"
+		dynasty = "Piman"
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}

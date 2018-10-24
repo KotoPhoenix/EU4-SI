@@ -1,0 +1,7 @@
+si_renaissance_knowledge_modifier = {
+	picture = "estuary_icon"
+}
+
+si_renaissance_school_modifier = {
+	picture = "estuary_icon"
+}

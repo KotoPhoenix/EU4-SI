@@ -1,0 +1,30 @@
+# No previous file for Hualapai
+
+owner = APA
+controller = APA
+add_core = APA
+
+culture = apache  
+religion = nahuatl
+
+base_tax = 2
+base_production = 2
+base_manpower = 2
+trade_goods = wool
+
+is_city = yes
+capital = "Hualapai" 
+hre = no 
+
+discovered_by = mesoamerican
+
+1541.1.1 = { discovered_by = SPA } # Francisco Vásquez de Coronado
+
+1731.1.1 = {
+	owner = PIM
+	controller = PIM
+	add_core = PIM
+	trade_goods = wool
+	is_city = yes 
+}
+

@@ -1,0 +1,39 @@
+#1003 - Moose Cree
+
+owner = WCR
+controller = WCR
+add_core = WCR
+
+culture = cree
+religion = norse_pagan_reformed
+
+base_tax = 2
+base_production = 4
+base_manpower = 2
+trade_goods = fur
+
+is_city = yes
+capital = "Moose Cree" 
+hre = no 
+
+discovered_by = north_american
+
+1611.1.1 = { discovered_by = ENG } # Henry Hudson
+1672.1.1 = { discovered_by = FRA } # Charles Albanel
+
+1679.1.1 = {
+	owner = ENG
+	controller = ENG
+	add_core = ENG
+	trade_goods = fur
+	culture = english
+	religion = protestant
+	is_city = yes
+} # Construction of Fort Albany
+1707.5.12 = {
+	discovered_by = GBR
+	owner = GBR
+	controller = GBR
+	add_core = GBR
+	remove_core = ENG
+}

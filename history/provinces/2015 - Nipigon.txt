@@ -1,0 +1,45 @@
+# No previous file for Nipigon
+
+owner = CHY
+controller = CHY
+add_core = CHY
+
+culture = cheyenne
+religion = totemism
+
+base_tax = 2
+base_production = 2
+base_manpower = 2
+trade_goods = fur
+
+is_city = yes
+capital = "Nipigon" 
+hre = no 
+
+discovered_by = north_american
+
+1609.1.1 = { discovered_by = FRA }
+1611.1.1 = { discovered_by = ENG } # Henry Hudson
+
+1650.1.1 = { 
+	owner = ---
+	controller = ---
+	remove_core = OJI
+	is_city = no 
+} #Fleeing westward
+1684.1.1 = {
+	owner = FRA
+	controller = FRA
+	add_core = FRA
+	is_city = yes
+	capital = "Fort Népigon"
+} #French settlement. Ojibwe should have migrated west by then. 
+1707.5.12 = { discovered_by = GBR }
+1763.2.10 = {
+	owner = GBR
+	controller = GBR
+	add_core = GBR
+	remove_core = FRA
+	culture = english
+	religion = protestant
+} # Treaty of Paris 

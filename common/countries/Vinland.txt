@@ -1,0 +1,111 @@
+#Vinland 
+
+graphical_culture = westerngfx
+
+color = { 190 190 190 }
+
+historical_score = 25
+
+historical_idea_groups = {
+	aristocracy_ideas
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	maritime_ideas
+}
+
+historical_units = {
+	vinlandic_infantry
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	dutch_maurician
+	swedish_gallop
+	swedish_gustavian
+	swedish_caroline
+	swedish_arme_blanche
+	prussian_frederickian
+	prussian_uhlan
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Leif #4" = 40
+	"Raganarr #2" = 20
+	"Indga #2" = -20
+	"Gunnhildr #1" = -0
+	"Bengt #1" = 10
+	"Edvard #0" = 0
+	"Einar #0" = 0
+	"Folke #1" = 10
+	"Gottfrid #0" = 0
+	"Henrik #0" = 0
+	"Jakob #1" = 0
+	"Patrik #0" = 0
+	"Rangvald #0" = 0
+	"Rettil #0" = 0
+}
+
+leader_names = {
+	Anki Arkur Arten "af Snjolend" "af Grænlend" "af Gennäs"
+	Bo Burdi Bagge Banér Bielke Brahe
+	Cronstedt
+	"de la Altherag" "de la Gardie"
+	Gadh Grip Gyllenhielm Gathenhielm Gustavsson Goert Galen
+	Horn Heaurd Hahn Hastfer Hjaerne Heronnla
+	Jagerhorn Johannson
+	Lodbruk 
+	Ragnarrson Ribbing
+	"Tre Rosor" Torstensson "af Trolle" Toll Tolikr 
+}
+
+ship_names = {
+		Odin
+		Loki
+		Ragnarok
+		Lief
+		Erik
+		Blok
+		Helheim
+		Valkyrie
+		Vinland
+		Freyr
+		Markland
+		Tyr 
+		Baduhenna
+		Zisa
+		Ragnar
+		Snotra 
+		Gerðr 
+		Ve
+		Oor
+		Heimdallr
+		Lóðurr
+		"Odin II"
+		Sigyn
+		Njörun
+		Yggdrasil
+		Mikdgard
+		Irpa 
+		Frigg
+		Hird
+		Gullveig
+		Svadar
+		Hel
+		Bragi
+		Tolkien
+		Bragi 
+		Tor
+		Hakke
+		Azteoc
+		Greenlandt
+		Norge
+		Danmark
+		Drage
+}

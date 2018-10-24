@@ -1,0 +1,31 @@
+# No previous file for Itscheabine
+
+owner = SHO
+controller = SHO
+add_core = SHO
+
+culture = shoshone
+religion = totemism
+
+base_tax = 1
+base_production = 1
+base_manpower = 2
+trade_goods = fur
+
+is_city = yes
+capital = "Itscheabine" 
+hre = no 
+
+discovered_by = north_american
+
+1692.1.1 = { discovered_by = ENG } #Henry Kelsey
+1707.5.12 = { discovered_by = GBR }
+1732.1.1 = { discovered_by = FRA } # Pierre Gaultier de Varennes
+
+1760.1.1 = {
+	owner = ASI
+	controller = ASI
+	add_core = ASI
+	culture = nakota
+	is_city = yes 
+} #Great Plain tribes spread over vast territories
